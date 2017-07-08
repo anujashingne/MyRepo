@@ -12,3 +12,5 @@ user1.save(function (err) {
     console.log('meow');
   }
 });
+
+mongoose.connection.close();
