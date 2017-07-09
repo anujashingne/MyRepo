@@ -1,1 +1,3 @@
 /js/node_modules
+/js/smsGateway.js
+/js/awsSMS.js
